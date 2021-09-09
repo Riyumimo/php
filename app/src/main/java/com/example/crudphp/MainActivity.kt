@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         setupList()
         setupListener()
 
-
+/*main activity disini*/
     }
     override fun onStart() {
         super.onStart()
