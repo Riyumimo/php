@@ -21,7 +21,7 @@ class EditActivity : AppCompatActivity() {
         setupView()
         setupListener()
     }
-
+//test commint disini
     private fun setupView(){
         updatetext = findViewById(R.id.update_note)
         buttonUpdate = findViewById(R.id.button_update)
