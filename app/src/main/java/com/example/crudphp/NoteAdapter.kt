@@ -25,7 +25,7 @@ class NoteAdapter(
         holder.imageDelete.setOnClickListener {
             Listener.onDelete(data)
         }
-
+/*Note Adapter */
 
     }
 
